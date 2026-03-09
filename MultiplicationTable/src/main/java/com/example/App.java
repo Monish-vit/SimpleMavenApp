@@ -1,6 +1,6 @@
 package com.example;
 
-public class MultiplicationTable {
+public class App {
     public static void main(String[] args) {
         // Default to 5 if no argument is provided
         int number = (args.length > 0) ? Integer.parseInt(args[0]) : 5;
